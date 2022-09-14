@@ -1,2 +1,5 @@
-# Desenvolvendo-um-Jogo-da-Mem-ria
-Desenvolvendo um Jogo da Memória
+# Desenvolvendo um Jogo da Memoria 
+
+#### Desafio de projeto bootcamp TQI/DIO
+
+###### Ministrado pela instrutura Gabriela Pinheiro 👩
